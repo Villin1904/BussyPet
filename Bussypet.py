@@ -29,4 +29,4 @@ async def nuevoembed(ctx):
     embed.set_footer(text= "Fierro pariente")
     await ctx.send(embed=embed)
 
-bot.run("MTA2NzYyODY2MTE1MjQzMjEyOA.GhHTjw.4WJQlBBe6z803rnZ2Q1zWCztGgxCNdkHPqjrU8")
+bot.run("token")
